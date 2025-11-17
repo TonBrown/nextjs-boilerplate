@@ -1,0 +1,28 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "kjk.lol" }],
+      "destination": "https://gooqlc.com/12773",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "e.kjk.lol" }],
+      "destination": "https://pag.gg/706",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "i.kjk.lol" }],
+      "destination": "https://googleimagem.com/1988",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "www.kjk.lol" }],
+      "destination": "https://kjk.lol",
+      "permanent": true
+    }
+  ]
+}
