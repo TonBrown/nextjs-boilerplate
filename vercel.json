@@ -23,6 +23,12 @@
       "has": [{ "type": "host", "value": "www.kjk.lol" }],
       "destination": "https://kjk.lol",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "x.kjk.lol" }],
+      "destination": "https://ġoogle.com/12773",
+      "permanent": true
     }
   ]
 }
