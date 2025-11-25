@@ -45,7 +45,7 @@
     {
       "source": "/",
       "has": [{ "type": "host", "value": "b.kjk.lol" }],
-      "destination": "https://11z.co/12773/youtube",
+      "destination": "https://11z.co/12773/baralho",
       "permanent": true
     }
   ]
