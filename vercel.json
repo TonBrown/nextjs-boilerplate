@@ -44,7 +44,7 @@
     },
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "y.kjk.lol" }],
+      "has": [{ "type": "host", "value": "b.kjk.lol" }],
       "destination": "https://11z.co/12773/youtube",
       "permanent": true
     }
