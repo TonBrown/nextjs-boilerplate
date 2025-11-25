@@ -31,21 +31,22 @@
       "permanent": true
     },
     {
-  "source": "/",
-  "has": [{ "type": "host", "value": "w.kjk.lol" }],
-  "destination": "https://11z.co/12773/imagens",
-  "permanent": true
-},
-{
-  "source": "/",
-  "has": [{ "type": "host", "value": "h.kjk.lol" }],
-  "destination": "https://11z.co/12773/houdini",
-  "permanent": true
-},
-{
-  "source": "/",
-  "has": [{ "type": "host", "value": "y.kjk.lol" }],
-  "destination": "https://11z.co/12773/youtube",
-  "permanent": true
+      "source": "/",
+      "has": [{ "type": "host", "value": "w.kjk.lol" }],
+      "destination": "https://11z.co/12773/imagens",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "h.kjk.lol" }],
+      "destination": "https://11z.co/12773/houdini",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "y.kjk.lol" }],
+      "destination": "https://11z.co/12773/youtube",
+      "permanent": true
+    }
+  ]
 }
-
